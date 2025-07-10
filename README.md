@@ -28,7 +28,7 @@ IDS=12345678,87654321
 PD_NAME=your_process_name
 PD_VER=10
 COUNTRY_CODE=IL
-
+```
 
 ### Option 2: Using a system environment variables
 
@@ -41,6 +41,7 @@ export IDS=12345678,87654321
 export PD_NAME=your_process_name
 export PD_VER=10
 export COUNTRY_CODE=IL
+```
 
 ```Windows (CMD):
 set BASE_URL=https://TENANT.env.trustx.com
@@ -49,3 +50,4 @@ set IDS=12345678,87654321
 set PD_NAME=your_process_name
 set PD_VER=10
 set COUNTRY_CODE=IL
+```
